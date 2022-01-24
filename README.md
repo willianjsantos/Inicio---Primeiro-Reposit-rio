@@ -1,2 +1,2 @@
-# Inicio---Primeiro-Reposit-rio
+# Repositório do primeiro desafio da DIO. Sobre Github / Git
 Primeiro Desafio DIO
